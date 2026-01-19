@@ -1,5 +1,5 @@
-![](https://raw.githubusercontent.com/Quark-EE/Engineering-Base/refs/heads/main/Linear01.jpg)$$\huge y=x$$
-![](IMG_5844.jpeg)
+![](1.jpg)$$\huge y=x$$
+![](2.jpg)
 $$\huge y=kx\;\color{gray}3x$$
-![](IMG_5845.jpeg)
+![](3.jpg)
 $$\huge y=kx\pm d\;\color{gray}-x+2$$
