@@ -1,4 +1,4 @@
-![]([Linear01.jpg](https://raw.githubusercontent.com/Quark-EE/Engineering-Base/refs/heads/main/Linear01.jpg))$$\huge y=x$$
+![](https://raw.githubusercontent.com/Quark-EE/Engineering-Base/refs/heads/main/Linear01.jpg)$$\huge y=x$$
 ![](IMG_5844.jpeg)
 $$\huge y=kx\;\color{gray}3x$$
 ![](IMG_5845.jpeg)
