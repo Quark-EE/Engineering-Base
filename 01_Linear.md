@@ -1,4 +1,3 @@
-
 ![](Linear01.jpg)$$\huge y=x$$
 ![](IMG_5844.jpeg)
 $$\huge y=kx\;\color{gray}3x$$
