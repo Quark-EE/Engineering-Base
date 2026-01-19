@@ -1,5 +1,5 @@
 
-![](IMG_5831.jpeg|350)$$\huge y=x$$
+![](IMG_5831.jpeg)$$\huge y=x$$
 ![](IMG_5844.jpeg)
 $$\huge y=kx\;\color{gray}3x$$
 ![](IMG_5845.jpeg)
